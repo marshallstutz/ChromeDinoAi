@@ -1,0 +1,7 @@
+c:\users\marsh\source\repos\Dino\Dino\bin\Debug\Dino.exe.config
+c:\users\marsh\source\repos\Dino\Dino\bin\Debug\Dino.exe
+c:\users\marsh\source\repos\Dino\Dino\bin\Debug\Dino.pdb
+c:\users\marsh\source\repos\Dino\Dino\obj\Debug\Dino.csprojAssemblyReference.cache
+c:\users\marsh\source\repos\Dino\Dino\obj\Debug\Dino.csproj.CoreCompileInputs.cache
+c:\users\marsh\source\repos\Dino\Dino\obj\Debug\Dino.exe
+c:\users\marsh\source\repos\Dino\Dino\obj\Debug\Dino.pdb
